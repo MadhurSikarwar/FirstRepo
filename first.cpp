@@ -8,7 +8,7 @@ int main()
     int a = 1;
     int b = 2;
     cout<<"Adding a and b results in "<<(a+b);
-    //adding commnets
+    //adding commnets to the cpp file
     //adding more comments
     return 0;
 }
